@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Favorite Words</string>
+    <string name="s_title">Stonks demystified</string>
+    <string name="s_meaning">A concentrated artillery bombardment. For example, a mortar stonk</string>
+    
+    <string name="h_title">Hemoglobin defined</string>
+    <string name="h_meaning">A protein in red blood cells responsible for transporting oxygen in the blood</string>
+
+    <string name="unknown_word">Error: this word is not known at this time</string>
+</resources>
